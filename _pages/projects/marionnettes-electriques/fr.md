@@ -66,12 +66,15 @@ Avec les annonces de groupes trans-humanistes, l'automatisation du travail et le
 
 ## Événements à venir
 
-- les 22 et 23 juin 2016 au [colloque robotique et éducation][2] au Centre de Recherche Inria Bordeaux - Sud-Ouest.
-- du 8 au 11 août 2016 de 15h à 18h : Atelier manipulation de robots au [Festival d'astronomie de Fleurance.][3]
+- 28 Septembre 2016 : [Course de robots][2] aux Allées Jules Guesdes à Toulouse
+- 30 Septembre 2016 : Nuit des chercheurs au Quai des Savoir à Toulouse
+- 6 Novembre 2016 : School of Moon à Timisoara en Roumanie
+- 9-11 Décembre 2016 : School of Moon au Ballet National de Marseille
+- 3 Février 2017 : Adaptation de School of Moon à Ambares à côté de Bordeaux
+- 25 Mars 2017 : School of Moon au Prisme à Elancourt à côté de Paris
 
 <div class="follow-incentive">
   <a href="https://forum.poppy-project.org/t/marionnettes-electriques/1521" class="button large">En savoir plus sur le projet <em>Marionnettes électriques</em></a>
 </div>
 
-  [2]: http://dm1r.fr/colloque-robotique-education/
-  [3]: http://www.festival-astronomie.com/
+  [2]: http://www.toulouse-robot-race.org/
